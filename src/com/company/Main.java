@@ -6,6 +6,7 @@ public class Main {
 	// write your code here
         String develop;
         String test;
+        String task2;
         System.out.println("Hi");
         System.out.println("Hi");
         System.out.println("Hi");
