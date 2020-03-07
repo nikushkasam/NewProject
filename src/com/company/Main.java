@@ -8,6 +8,7 @@ public class Main {
         String test;
         String task2;
         String task3;
+        String task4;
         System.out.println("Hi");
         System.out.println("Hi");
         System.out.println("Hi");
