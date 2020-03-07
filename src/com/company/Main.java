@@ -7,6 +7,7 @@ public class Main {
         String develop;
         String test;
         String task2;
+        String task3;
         System.out.println("Hi");
         System.out.println("Hi");
         System.out.println("Hi");
